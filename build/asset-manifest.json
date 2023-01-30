@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6130e84.css",
+    "main.js": "/static/js/main.1b2293b4.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Album.jpg": "/static/media/Album.940abb22cbcd61c17a4f.jpg",
+    "static/media/Bg.jpg": "/static/media/Bg.af2f6e0eda9886d7d9e6.jpg",
+    "static/media/Kidsimg.png": "/static/media/Kidsimg.1e833edf738e796645fd.png",
+    "static/media/video-tv.m4v": "/static/media/video-tv.4c1a4787988d23b1039c.m4v",
+    "static/media/Mactv.png": "/static/media/Mactv.ff81d825b399d890f9b4.png",
+    "static/media/navbarlogo.png": "/static/media/navbarlogo.74cc3dfd365b50c62730.png",
+    "static/media/video-everywhere.m4v": "/static/media/video-everywhere.81bb66955f7e9654e354.m4v",
+    "static/media/milly.jpg": "/static/media/milly.063578d5b6d5ab4155ec.jpg",
+    "static/media/download-icon.gif": "/static/media/download-icon.1ce72c891b52e6f68f2f.gif",
+    "static/media/tvbox.png": "/static/media/tvbox.0049bc70babc1f94cf88.png",
+    "index.html": "/index.html",
+    "main.d6130e84.css.map": "/static/css/main.d6130e84.css.map",
+    "main.1b2293b4.js.map": "/static/js/main.1b2293b4.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6130e84.css",
+    "static/js/main.1b2293b4.js"
+  ]
+}
